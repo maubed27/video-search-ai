@@ -1,5 +1,7 @@
 # 🎬 Intelligent Video Search Engine
 
+This system combines semantic embeddings (CLIP) with object detection (YOLO) to improve retrieval accuracy and reduce false positives
+
 A semantic video search system that allows users to query video content using natural language and retrieve the most relevant moments with timestamps.
 
 ---
