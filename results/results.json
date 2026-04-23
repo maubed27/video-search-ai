@@ -1,0 +1,32 @@
+[
+    {
+        "query": "exit",
+        "timestamp": "00:00:22",
+        "frame": "frames/frame_22.jpg",
+        "score": 0.006000000052154064
+    },
+    {
+        "query": "exit",
+        "timestamp": "00:00:23",
+        "frame": "frames/frame_23.jpg",
+        "score": 0.006000000052154064
+    },
+    {
+        "query": "exit",
+        "timestamp": "00:00:17",
+        "frame": "frames/frame_17.jpg",
+        "score": 0.006000000052154064
+    },
+    {
+        "query": "exit",
+        "timestamp": "00:00:01",
+        "frame": "frames/frame_1.jpg",
+        "score": 0.006000000052154064
+    },
+    {
+        "query": "exit",
+        "timestamp": "00:00:03",
+        "frame": "frames/frame_3.jpg",
+        "score": 0.006000000052154064
+    }
+]

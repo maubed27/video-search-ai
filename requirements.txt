@@ -1,0 +1,9 @@
+opencv-python
+torch
+torchvision
+open_clip_torch
+faiss-cpu
+numpy
+pandas
+tqdm
+Pillow
